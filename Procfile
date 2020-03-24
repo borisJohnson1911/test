@@ -1,1 +1,1 @@
-bot: python telega.py
+bot: python subbd.py
